@@ -37,4 +37,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
+}
+.contacts .link:hover .contacts .link:focus {
+  color: #404bbf;
 }
