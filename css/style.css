@@ -39,6 +39,6 @@ body {
   color: #434455;
   font-style: normal;
 }
-.contacts .link:hover .contacts .link:focus {
+.contacts .a:hover .contacts .a:focus {
   color: #404bbf;
 }
