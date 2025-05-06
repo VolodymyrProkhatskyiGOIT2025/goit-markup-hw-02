@@ -46,3 +46,7 @@ body {
 .contacts .link:focus {
   color: #404bbf;
 }
+.header-nav-item .link:hover,
+.header-nav-item .link:focus {
+  color: #404bbf;
+}
