@@ -39,9 +39,10 @@ body {
   color: #434455;
   font-style: normal;
 }
-.contacts {
+.contacts .link {
   color: #434455;
 }
-.contacts .a:hover .contacts .a:focus {
+.contacts .link:hover,
+.contacts .link:focus {
   color: #404bbf;
 }
