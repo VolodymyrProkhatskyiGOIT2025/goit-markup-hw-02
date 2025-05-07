@@ -76,14 +76,14 @@ body {
 .first-section .button:focus {
   background-color: #404bbf;
 }
-.header-3 {
+.header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraf-sect-2 {
+.paragraf-sect-two {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
