@@ -127,7 +127,6 @@ body {
 .header-four-class {
   font-weight: 500;
   font-size: 20px;
-
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
@@ -139,6 +138,9 @@ body {
 }
 .footer {
   background-color: #2e2f42;
+}
+.footer-class-studio {
+  color: #f4f4fd;
 }
 .footer-paragraf {
   line-height: 1.5;
