@@ -53,10 +53,10 @@ body {
 .header-nav-item .link:focus {
   color: #404bbf;
 }
-.first section {
+.first-section {
   background-color: #2e2f42;
 }
-.main header {
+.main-header {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -71,4 +71,8 @@ body {
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
+}
+.first-section .button:hover,
+.first-section .button:focus {
+  background-color: #404bbf;
 }
