@@ -117,3 +117,24 @@ body {
 .color-fon {
   background-color: #ffffff;
 }
+.header-our-portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.header-four-class {
+  font-weight: 500;
+  font-size: 20px;
+
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+  color: #2e2f42;
+}
+.paragraf-four-class {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
