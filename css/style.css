@@ -111,7 +111,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  columns: #434455;
+  color: #434455;
 }
 .color-fon {
   background-color: #ffffff;
@@ -129,7 +129,6 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
   color: #2e2f42;
 }
 .paragraf-four-class {
@@ -146,4 +145,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
 }
